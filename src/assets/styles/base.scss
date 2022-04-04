@@ -1,0 +1,15 @@
+@import './search.scss';
+@import './result.scss';
+@import './footer.scss';
+@import './mobile.scss';
+
+
+body {
+    background: #424344;
+}
+#app {
+    background: #424344;
+    height: 100vh;
+    max-width: 800px;
+    margin: auto;
+}
